@@ -1,0 +1,47 @@
+.container{
+    width: 600px;
+    height: 800px;
+    border: 10px solid black;
+}
+#assin{
+ text-align: center;
+ font-weight: bold;
+ font-size: 48px;
+}
+#sess{
+    text-align: center;
+    font-weight: bold;
+    font-size: 38px;
+    margin-top: 120px;
+}
+#sub{
+    font-weight: bold;
+    margin-top: 70px;
+    margin-bottom: 10px;  
+    text-decoration: underline;
+}
+.sex{
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.name{
+    margin-top: 10px;
+}
+#subto{
+    
+    float: right;
+
+}
+.left{
+    
+    float: left;
+}
+div>img{
+    align-content: center;
+}
+
+#subto{
+    font-weight: bold;
+    margin-top: 70px;
+    text-decoration: underline;
+}
